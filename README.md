@@ -1,67 +1,91 @@
-# ⚙️ Jay Soni – DevOps Enthusiast  
+# ⚙️ Jay Soni — DevOps & Linux Enthusiast
 
-
-
- a **DevOps Engineering** repository driven by automation, scalability, and continuous integration.  this repo focuses on **cloud infrastructure, CI/CD pipelines, containerization, and monitoring solutions**.  
-
-My mission is to **contribute to open-source** and engage in **major projects that drive innovation** in software delivery and infrastructure automation.
+I’m a DevOps-focused developer passionate about building, deploying, and maintaining real-world systems.
+Recently, I moved beyond just development and started working on **production-level deployments, CI/CD pipelines, and Linux server management**.
 
 ---
 
-### 🛠️ Tech Stack  
+## 🚀 What I Do
 
-**🖥️ Platforms & Tools:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-**☁️ Cloud Providers:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud)
-
-**📦 Monitoring & Logging:**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic-stack)
+* Build full-stack applications and deploy them to production
+* Design and manage CI/CD pipelines
+* Work with Dockerized environments
+* Handle Linux servers (monitoring, debugging, recovery)
+* Focus on system reliability and real-world debugging
 
 ---
 
+## 🧠 Featured Project
 
-## 🚀 Key Skills  
+### 🔹 Roommate Connect (Production Deployment)
 
-✅ Cloud-native DevOps solutions  
-✅ CI/CD Pipelines with Jenkins & GitHub Actions  
-✅ Infrastructure-as-Code using Terraform and Ansible  
-✅ Docker & Kubernetes orchestration  
-✅ Monitoring and observability (Prometheus, Grafana, ELK)  
-✅ Open-source contributions to tools and automation  
+A full-stack platform deployed with DevOps practices:
 
----
+* Dockerized frontend, backend, and PostgreSQL
+* Deployed on AWS EC2
+* NGINX reverse proxy with custom domain & HTTPS
+* CI/CD pipeline using Jenkins
+* AWS S3 integration for image storage
+* Real-world debugging & failure handling
 
-## 📌 Goals  
-
-🔹 Collaborate on **large-scale, production-ready DevOps pipelines**  
-🔹 Make **significant contributions** to open-source DevOps tools and automation frameworks  
-🔹 Help teams deliver faster, safer, and more scalable applications  
+🌐 Live: https://roommate.jay26.online
+📦 Showcase: https://github.com/jay-soni-official/roommate-connect-showcase
 
 ---
 
-## 📈 GitHub Stats  
+## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay-soni-official&show_icons=true&theme=tokyonight)
+### ⚙️ DevOps & Tools
+
+* Linux (server management, monitoring)
+* Docker & Docker Compose
+* Jenkins (CI/CD pipelines)
+* Git & GitHub
+
+### ☁️ Cloud
+
+* AWS (EC2, S3, basic networking)
+
+### 💻 Development
+
+* Node.js (Backend)
+* React (Frontend)
+* PostgreSQL
 
 ---
 
-## 📊 Top Languages  
+## 🐧 Linux & System Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-soni-official&layout=compact&theme=tokyonight)
+* Monitoring system health (CPU, RAM, Disk)
+* Managing services (Docker, NGINX, Jenkins)
+* Debugging using logs
+* Handling production failures
+* Understanding system dependencies
 
 ---
 
-![DevOps GIF](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+## 🎯 Current Focus
+
+* Strengthening DevOps fundamentals
+* Learning production-level system design
+* Improving Linux administration skills
+* Building real-world deployable projects
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay-soni-official\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-soni-official\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🤝 Let’s Connect
+
+I’m actively learning and open to opportunities in **DevOps, Linux Administration, and Cloud**.
+Always happy to discuss projects, deployment, or system design.
