@@ -1,91 +1,78 @@
-# ⚙️ Jay Soni — DevOps & Linux Enthusiast
+# 👋 Hi, I'm Jay Soni
 
-I’m a DevOps-focused developer passionate about building, deploying, and maintaining real-world systems.
-Recently, I moved beyond just development and started working on **production-level deployments, CI/CD pipelines, and Linux server management**.
+🚀 DevOps & Linux Enthusiast | Building and Running Real Systems
 
----
-
-## 🚀 What I Do
-
-* Build full-stack applications and deploy them to production
-* Design and manage CI/CD pipelines
-* Work with Dockerized environments
-* Handle Linux servers (monitoring, debugging, recovery)
-* Focus on system reliability and real-world debugging
+I focus on understanding how applications **run in production**, not just how they are built.
+My interest lies in **deployment, automation, system reliability, and Linux server management**.
 
 ---
 
-## 🧠 Featured Project
+## 🧠 What I Do
 
-### 🔹 Roommate Connect (Production Deployment)
-
-A full-stack platform deployed with DevOps practices:
-
-* Dockerized frontend, backend, and PostgreSQL
-* Deployed on AWS EC2
-* NGINX reverse proxy with custom domain & HTTPS
-* CI/CD pipeline using Jenkins
-* AWS S3 integration for image storage
-* Real-world debugging & failure handling
-
-🌐 Live: https://roommate.jay26.online
-📦 Showcase: https://github.com/jay-soni-official/roommate-connect-showcase
+* Work with containerized environments using Docker
+* Build and understand CI/CD pipelines
+* Manage and debug Linux-based servers
+* Focus on system performance, monitoring, and uptime
+* Learn by building and breaking real systems
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-### ⚙️ DevOps & Tools
+### 🐧 Core
 
-* Linux (server management, monitoring)
-* Docker & Docker Compose
-* Jenkins (CI/CD pipelines)
-* Git & GitHub
+![Linux](https://img.shields.io/badge/Linux-Experienced-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-Working-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-Reverse%20Proxy-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+
+---
 
 ### ☁️ Cloud
 
-* AWS (EC2, S3, basic networking)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3-232F3E?style=for-the-badge\&logo=amazon-aws)
+
+---
 
 ### 💻 Development
 
-* Node.js (Backend)
-* React (Frontend)
-* PostgreSQL
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
 ## 🐧 Linux & System Skills
 
-* Monitoring system health (CPU, RAM, Disk)
+* Monitoring CPU, memory, and disk usage
 * Managing services (Docker, NGINX, Jenkins)
-* Debugging using logs
-* Handling production failures
-* Understanding system dependencies
+* Debugging using logs and system tools
+* Handling real-world failures and recovery
+* Understanding service dependencies
 
 ---
 
 ## 🎯 Current Focus
 
 * Strengthening DevOps fundamentals
-* Learning production-level system design
-* Improving Linux administration skills
-* Building real-world deployable projects
+* Improving Linux system administration
+* Learning production-level system behavior
+* Building deployable and scalable systems
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay-soni-official\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 📊 Top Languages
+## 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-soni-official\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect
 
-I’m actively learning and open to opportunities in **DevOps, Linux Administration, and Cloud**.
-Always happy to discuss projects, deployment, or system design.
+Always open to learning, collaboration, and discussions around DevOps, Linux, and system design.
